@@ -13,6 +13,8 @@
     "chromatic": "npx chromatic --project-token=chpt_e9a843aa4068778"
   },
   "dependencies": {
+    "@storybook/addon-designs": "^8.0.0",
+    "@storybook/addon-themes": "^8.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

@@ -7,8 +7,6 @@ const config = {
     "@storybook/addon-essentials",
     "@chromatic-com/storybook",
     "@storybook/addon-interactions",
-    "@storybook/addon-themes",
-    "@storybook/addon-designs",
   ],
   framework: {
     name: "@storybook/react-vite",

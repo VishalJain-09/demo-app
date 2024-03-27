@@ -1,3 +1,33 @@
-.logil-badge {
-    
+@import "src/root.css";
+
+.logile-badge {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: var(--spacing-0, 0px);
+}
+
+.logile-badge--lg {
+    font-size: var(--body-medium);
+}
+
+.logile-badge--md {
+    font-size: var(--body-medium);
+}
+
+.logile-badge--sm {
+    font-size: var(--secondary-text-medium);
+}
+
+.logile-badge--rounded {
+    border-radius: 4px;
+}
+
+.logile-badge--pill {
+    border-radius: 1000px;
+}
+
+.logile-badge--stroke {
+    border-width: 1px;
+    border-style: solid;
 }

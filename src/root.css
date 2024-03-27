@@ -1,0 +1,148 @@
+:root {
+.page-heading-semibold {
+	font-size: 23px;
+	font-family: Poppins;
+	font-weight: 600;
+	font-style: normal;
+	line-height: 34px;
+	text-decoration: none;
+	text-transform: none;
+}
+.page-heading-medium {
+	font-size: 23px;
+	font-family: Roboto;
+	font-weight: 500;
+	font-style: normal;
+	line-height: 34px;
+	text-decoration: none;
+	text-transform: none;
+}
+.secondary-heading-regular {
+	font-size: 19px;
+	font-family: Poppins;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 28px;
+	text-decoration: none;
+	text-transform: none;
+}
+.secondary-heading-medium {
+	font-size: 19px;
+	font-family: Poppins;
+	font-weight: 500;
+	font-style: normal;
+	line-height: 28px;
+	text-decoration: none;
+	text-transform: none;
+}
+.body-normal {
+	font-size: 15px;
+	font-family: Roboto;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 22px;
+	text-decoration: none;
+	text-transform: none;
+}
+.body-medium {
+	font-size: 15px;
+	font-family: Roboto;
+	font-weight: 500;
+	font-style: normal;
+	line-height: 22px;
+	text-decoration: none;
+	text-transform: none;
+}
+.body-normal-italic {
+	font-size: 15px;
+	font-family: Roboto;
+	font-style: italic;
+	font-weight: 400;
+	line-height: 22px;
+	text-decoration: none;
+	text-transform: none;
+}
+.body-normal-underline {
+	font-size: 15px;
+	font-family: Roboto;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 22px;
+	text-decoration: underline;
+	text-transform: none;
+}
+.body-large-normal {
+	font-size: 17px;
+	font-family: Roboto;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 25px;
+	text-decoration: none;
+	text-transform: none;
+}
+.body-large-medium {
+	font-size: 17px;
+	font-family: Roboto;
+	font-weight: 500;
+	font-style: normal;
+	line-height: 25px;
+	text-decoration: none;
+	text-transform: none;
+}
+.secondary-text-normal {
+	font-size: 13px;
+	font-family: Roboto;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 20px;
+	text-decoration: none;
+	text-transform: none;
+}
+.secondary-text-medium {
+	font-size: 13px;
+	font-family: Roboto;
+	font-weight: 500;
+	font-style: normal;
+	line-height: 20px;
+	text-decoration: none;
+	text-transform: none;
+}
+.kpi-number {
+	font-size: 32px;
+	font-family: Roboto;
+	font-weight: 500;
+	font-style: normal;
+	text-decoration: none;
+	text-transform: none;
+}
+.kpi-text {
+	font-size: 17px;
+	font-family: Roboto;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 25px;
+	text-decoration: none;
+	text-transform: none;
+}
+.weather-superscript {
+	font-size: 19px;
+	font-family: Roboto;
+	font-weight: 500;
+	font-style: normal;
+	line-height: 28px;
+	text-decoration: none;
+	text-transform: none;
+}
+.weather-weather-text {
+	font-size: 19px;
+	font-family: Roboto;
+	font-weight: 500;
+	font-style: normal;
+	line-height: 28px;
+	text-decoration: none;
+	text-transform: none;
+}
+}
+
+
+

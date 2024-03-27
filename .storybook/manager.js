@@ -1,4 +1,5 @@
 import { addons } from '@storybook/manager-api';
+import logiletheme from './logiletheme';
 
 addons.setConfig({
   navSize: 300,
@@ -7,7 +8,7 @@ addons.setConfig({
   panelPosition: 'bottom',
   enableShortcuts: true,
   showToolbar: true,
-  theme: undefined,
+  theme: logiletheme,
   selectedPanel: undefined,
   initialActive: 'sidebar',
   sidebar: {
@@ -15,7 +16,7 @@ addons.setConfig({
     collapsedRoots: ['other'],
   },
   toolbar: {
-    title: { hidden: false },
+    title: { hidden: true },
     zoom: { hidden: false },
     eject: { hidden: false },
     copy: { hidden: false },

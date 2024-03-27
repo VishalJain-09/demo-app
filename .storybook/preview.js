@@ -1,3 +1,5 @@
+import logiletheme from './logiletheme';
+
 /** @type { import('@storybook/react').Preview } */
 const preview = {
   parameters: {
@@ -10,4 +12,10 @@ const preview = {
   },
 };
 
-export default preview;
+export default {
+  parameters: {
+    docs: {
+      theme: logiletheme,
+    },
+  },
+};

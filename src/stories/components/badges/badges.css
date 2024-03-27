@@ -9,14 +9,17 @@
 
 .logile-badge--lg {
     font-size: var(--body-medium);
+    padding: 4px, 6px, 4px, 6px;
 }
 
 .logile-badge--md {
     font-size: var(--body-medium);
+    padding: 2px, 4px, 2px, 4px;
 }
 
 .logile-badge--sm {
     font-size: var(--secondary-text-medium);
+    padding: 2px, 3px, 2px, 3px;
 }
 
 .logile-badge--rounded {
@@ -30,4 +33,83 @@
 .logile-badge--stroke {
     border-width: 1px;
     border-style: solid;
+}
+
+.logile-badge--default--blue {
+    background:#C9E0FD;
+    color: #0A68DB;
+    border-color: #5EA3F8;
+}
+
+.logile-badge--default--grey {
+    background: #E7E7E7;
+    color: #5C5C5C;
+    border-color: #DCDCDC;
+}
+
+.logile-badge--default--red {
+    background: #FFE3E1;
+    color: #F44336;
+    border-color: #FFA8A2;
+}
+
+.logile-badge--default--orange {
+    background: #FFF5C5;
+    color: #FFA500;
+    border-color: #FFDA46;
+}
+
+
+
+.logile-badge--default--green {
+    background: #CCEBCC;
+    color: #009B00;
+    border-color: #66C366;
+}
+
+
+.logile-badge--default--grey {
+    background: #ffffff;
+    color: #5C5C5C;
+    border-color: #DCDCDC;
+}
+
+
+.logile-badge--disable--blue {
+    background: #E4EFFE;
+    color: #5EA3F8;
+    border-color: #93C1FA;
+}
+
+.logile-badge--disable--grey {
+    background: #F6F6F6;
+    color: #C1C1C1;
+    border-color: #DCDCDC;
+}
+
+.logile-badge--disable--red {
+    background: #FEf3E2;
+    color: #FFA8A2;
+    border-color: #FFA8A2;
+}
+
+.logile-badge--disable--orange {
+    background: #FFFCEA;
+    color: #FFDA46;
+    border-color: #FFDA46;
+}
+
+
+
+.logile-badge--disable--green {
+    background: #E6F5E6;
+    color: #66C366;
+    border-color: #66C366;
+}
+
+
+.logile-badge--disable--grey {
+    background: #ffffff;
+    color: #C1C1C1;
+    border-color: #DCDCDC;
 }
